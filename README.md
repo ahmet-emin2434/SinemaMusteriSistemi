@@ -61,4 +61,4 @@ Katkıda bulunmak isterseniz:
 Bu proje açık kaynaklıdır ve MIT Lisansı altında dağıtılmaktadır.
 
 ## İletişim
-Sorularınız veya önerileriniz için [e-posta adresiniz] üzerinden bana ulaşabilirsiniz.
+Sorularınız veya önerileriniz için [ahmeteminozcan16@gmail.com] üzerinden bana ulaşabilirsiniz.
