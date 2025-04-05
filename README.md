@@ -111,3 +111,9 @@ Fork oluşturun
 Yeni özellik ekleyin/düzeltme yapın
 
 Pull request gönderin
+
+## Lisans
+Bu proje açık kaynaklıdır ve MIT Lisansı altında dağıtılmaktadır.
+
+## İletişim
+Sorularınız veya önerileriniz için [ahmeteminozcan16@gmail.com] üzerinden bana ulaşabilirsiniz.
