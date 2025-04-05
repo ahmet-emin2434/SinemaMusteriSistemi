@@ -111,6 +111,3 @@ Fork oluşturun
 Yeni özellik ekleyin/düzeltme yapın
 
 Pull request gönderin
-
-Lisans
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
